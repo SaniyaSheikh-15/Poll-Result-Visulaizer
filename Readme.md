@@ -14,7 +14,7 @@ WordCloud
 NLTK
 
 
-## 🚀 Features
+# 🚀 Features
 
 ### **✔️ Upload & Process Survey Data**
 - Accepts CSV exports from Google Forms or Excel  
@@ -48,7 +48,7 @@ Generates realistic survey-style datasets:
 Useful for testing dashboards without real data.
 
 
-## ▶️ How to run
+# ▶️ How to run
 
 1️⃣ Create a virtual environment**
 python -m venv .venv
@@ -68,7 +68,8 @@ python src/preprocess.py
 streamlit run app_streamlit.py
 
 
-### 🤝 Contributing
+# 🤝 Contribution
 
 
 Feel free to open issues or submit pull requests for enhancements or new visual components.
+
