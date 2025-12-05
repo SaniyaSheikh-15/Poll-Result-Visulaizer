@@ -3,7 +3,7 @@
 A clean and interactive Streamlit-based Poll Results Visualizer that analyzes survey responses with dynamic filters, visual insights, word clouds, and export-ready CSV outputs. Includes data generator, preprocessing pipeline, and EDA utilities. Perfect for survey analytics, dashboards, and data science workflows.
 
 
-### 🧠 Tech Stack
+# 🧠 Tech Stack
 
 Python 3.10+
 Streamlit
@@ -69,5 +69,6 @@ streamlit run app_streamlit.py
 
 
 ### 🤝 Contributing
+
 
 Feel free to open issues or submit pull requests for enhancements or new visual components.
